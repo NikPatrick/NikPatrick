@@ -6,8 +6,8 @@ Data Analyst
 Data analyst with a continuous ambition to learn, innovate, and turn raw data into clear, actionable insights.
 
 🌍 I'm based in New Delhi
-🖥️ See my portfolio at Portfolio
-✉️ You can contact me at aniket.hpdh@gmail.com
+🖥️  See my portfolio at [Portfolio](http://nikpatrick.github.io/prt/)
+✉️ You can contact me at  [aniket.hpdh@gmail.com]
 🚀 I'm currently working on Portfolio
 🧠 I'm learning Advanced Data Analytics & Visualization
 Skills
